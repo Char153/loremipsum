@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "loremipsum-1.txt tiene $(wc  -l  lineas)"
+echo "loremipsum-1.txt tiene $(wc  -l > lineas)"
  
 echo "loremipsum-2.txt tiene $(wc  -l  lineas)" 
 
